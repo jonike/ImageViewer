@@ -3,13 +3,7 @@ Image viewer with Qt backend
 
 
 
-![alt text]( ImageViewer/example_data/1.jpg )
-
-
-
-
-
-
+![alt text](example_data/1.jpg?raw=true "Main Interface")
 
 
 
