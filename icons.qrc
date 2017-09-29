@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/area-chart-64.png</file>
+        <file>ressources/bar-chart-5-64.png</file>
+        <file>ressources/combo-64.png</file>
+        <file>ressources/heat-map-64.png</file>
+        <file>ressources/line-64.png</file>
+        <file>ressources/scatter-plot-64.png</file>
+    </qresource>
+</RCC>
